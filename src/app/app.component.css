@@ -1,0 +1,21 @@
+.form {
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background: cornflowerblue;
+}
+.link{
+    display: flex;
+    border: 2px solid black;
+    background: cornflowerblue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+}
+*{
+    text-align: center;    
+}
